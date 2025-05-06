@@ -23,37 +23,14 @@ Senior Cloud Engineer with extensive expertise in cloud platform administration 
 
 COGNIZANT (GOOGLE) Pune, MH, India 11/2022 to Current
 
-* Delivered expert-level technical support and administration for GCP Qwiklabs, ensuring seamless user engagement and operational continuity.
-* Partnered with global leaders and cross-functional teams to deploy scalable and resilient cloud solutions.
-* Executed comprehensive testing and replication of GCP labs-including Cloud Run, Load Balancing, VPC Networking, and Kubernetes Clusters to verify user-reported anomalies.
-* Conducted in-depth analysis of support tickets to accurately differentiate between user error and genuine lab malfunctions, enhancing diagnostic accuracy.
-* Maintained detailed documentation of validated lab defects and collaborated with development teams and Buganizer stakeholders to expedite resolution cycles.
-* Performed meticulous reviews of Zendesk-reported lab issues, ensuring precise diagnosis and timely resolution aligned with the Cloud Skills Boost platform standards.
-* Worked extensively with GitHub for version control and collaborative troubleshooting processes, and utilized Docker to containerize lab environments and streamline operational workflows.
-* Applied expertise across a range of AWS services including VPC, CloudFront, Route 53, CloudWatch, SNS, EC2, EFS, and S3-contributing to hybrid and multi-cloud lab development and support initiatives.
-* Leveraged Al-driven tools to generate insights and validate lab performance, enhancing troubleshooting efficiency for complex scenarios.
-
 **Senior Server Engineer**
 ![Dell](https://img.shields.io/badge/Dell-007DB8?style=for-the-badge&logo=dell&logoColor=white)
 
 CONCENTRIX (DELL) Pune, MH, India 08/2021 to 08/2022
 
-* Accomplished Server Administrator at DELL Enterprise, adept at efficiently overseeing server deployments, optimizing performance, and ensuring seamless operations within a dynamic enterprise environment.
-* Managed server deployments and ensured optimal performance and reliability within a dynamic enterprise environment.
-* Performed regular system updates, security patches, and maintenance to ensure server integrity.
-* Developed and implemented strategies to optimize server operations and reduce downtime.
-* Provided technical support and troubleshooting for server-related issues, minimizing impact on business operations.
-* Collaborated with cross-functional teams to plan and execute server infrastructure projects.
-* Monitored server performance and implemented performance tuning measures to enhance efficiency.
-
 **Research And Development Intern**
 
 EDMRC Pune, MH, India 12/2020 to 07/2021
-
-* Actively contributed to pioneering research and development initiatives in the electric vehicle industry.
-* Gained hands-on experience in innovating cutting-edge solutions for electric vehicles.
-* Collaborated with senior engineers to design and test new components and systems.
-* Assisted in data collection, analysis, and reporting for ongoing R&D projects.
 
 ## Skills
 
